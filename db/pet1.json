@@ -1,17 +1,17 @@
 {
-  "id": 0,
+  "id": 1974110524,
   "category": {
     "id": 1,
-    "name": "dog"
+    "name": "XPATHY1"
   },
-  "name": "Snoopy",
+  "name": "Boby",
   "photoUrls": [
     "string"
   ],
   "tags": [
     {
-      "id": 2021,
-      "name": "sta"
+      "id": 20210812,
+      "name": "data"
     }
   ],
   "status": "available"
